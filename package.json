@@ -6,7 +6,7 @@
     "test": "jest"
   },
   "keywords": [],
-  "author": "jeremy <sa_li@hunliji.com>",
+  "author": "jeremy <xwillmadeit@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "jest": "26.6.3"
